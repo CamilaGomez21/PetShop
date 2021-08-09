@@ -1,0 +1,17 @@
+/*Header*/
+
+.arriba{
+    background-color: #222222;
+}
+
+.abajo{
+    background-color: #F0A83E;
+}
+
+/*Body*/
+
+.bowl{
+    background-image: url("img/bowl.png");
+    background-repeat: no-repeat;
+    
+}
